@@ -1,1 +1,1 @@
-# Stock-Market-Prectidion-using-R
+# Stock-Market-Prediction-using-R
